@@ -1,0 +1,17 @@
+.main{
+    background-color: aqua;
+    color: blueviolet;
+    text-align: center;
+}
+
+.bottom_space{
+    margin-bottom: 20em;
+}
+
+.bottom_space0{
+    margin-bottom: 50em;
+}
+
+.bottom_space1{
+    margin-bottom: 25em;
+}
